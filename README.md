@@ -1,8 +1,8 @@
 # simple-camelcase
   [![Build Status][travis-image]][travis-url]
   [![NPM version][npm-image]][npm-url]
-  [![Code Climate][quality-image]][quality-url]
   [![Codecov branch][codecov-image]][codecov-url]
+  [![Maintainability][quality-image]][quality-url]
 
 使用原生js实现的camelcase，目前仅支持下划线，使用原生语法，前端可以直接使用
 
@@ -32,8 +32,8 @@ simpleCamelcase.toLowerCamel('user_name')
 [npm-url]: https://npmjs.org/package/simple-camelcase
 [travis-image]: https://img.shields.io/travis/liuwill/simple-camelcase/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/liuwill/simple-camelcase
-[quality-image]: https://img.shields.io/codeclimate/github/liuwill/simple-camelcase.svg?style=flat-square
-[quality-url]: https://codeclimate.com/github/liuwill/simple-camelcase
+[quality-image]: https://api.codeclimate.com/v1/badges/542a4c6ee34f202cd169/maintainability
+[quality-url]: https://codeclimate.com/github/liuwill/simple-camelcase/maintainability
 [appveyor-image]: https://img.shields.io/appveyor/ci/liuwill/simple-camelcase/master.svg?style=flat-square
 [appveyor-url]: https://ci.appveyor.com/project/liuwill/simple-camelcase
 [codecov-image]: https://img.shields.io/codecov/c/github/liuwill/simple-camelcase.svg?style=flat-square
